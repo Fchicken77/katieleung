@@ -1,4 +1,4 @@
-baseurl = "http://fchicken77.github.io"
+baseurl = "https://fchicken77.github.io"
 title = "Katie's Website"
 
 theme = "hugo-coder"
@@ -32,7 +32,7 @@ pygmentscodefencesguesssyntax = true
     since = 2020
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+    #commit = "https://github.com/luizdepra/hugo-coder/tree/"
 
     rtl = false
 
@@ -59,7 +59,7 @@ pygmentscodefencesguesssyntax = true
 [params.fathomAnalytics]
     siteID = "ABCDE"
     # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
-    serverURL = "analytics.example.com"
+    #serverURL = "analytics.example.com"
 
 [taxonomies]
   category = "categories"
@@ -82,14 +82,9 @@ pygmentscodefencesguesssyntax = true
     weight = 3
     url = "https://www.instagram.com/fchicken77/"
 [[params.social]]
-    name = "Discord"
-    icon = "fab fa-discord"
-    weight = 4
-    url = "https://discord.gg/NUjss4x"
-[[params.social]]
     name = "RSS"
     icon = "fas fa-rss"
-    weight = 5
+    weight = 4
     url = "https://myhugosite.com/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
