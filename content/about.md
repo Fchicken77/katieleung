@@ -10,4 +10,4 @@ Hi, I'm Katie, and I'm a 16 year-old digital artist. I also do some coding and w
 - [Professional Cringelord](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Professional Minecraft Gamer](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Winner of the Unfunny Awards 2020](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [World Class Asshole](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [World Class Arsehole](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
