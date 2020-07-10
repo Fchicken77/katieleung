@@ -97,6 +97,6 @@ pygmentscodefencesguesssyntax = true
             url = "about/"
 
             [[languages.en.menu.main]]
-            name = "Blog"
+            name = "Portfolio"
             weight = 2
             url = "posts/"
